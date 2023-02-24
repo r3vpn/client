@@ -13,7 +13,8 @@
  - اگر دکمه نارنجی نشد و به عقب برگشت متصل نشد است
 
 
-![app](sstp.1.jpg)
+ - محیط برنامه
+<img src="sstp.1.jpg" alt="sstp.1.jpg" width="400"/>
 
-
-![connected](sstp.2.jpg)
+ - وصل شدن برنامه
+<img src="sstp.2.jpg" alt="sstp.2.jpg" width="400"/>
