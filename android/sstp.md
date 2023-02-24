@@ -13,7 +13,7 @@
  - اگر دکمه نارنجی نشد و به عقب برگشت متصل نشد است
 
 
-![app](sttp.1.jpg)
+![app](sstp.1.jpg)
 
 
-![connected](sttp.2.jpg)
+![connected](sstp.2.jpg)
