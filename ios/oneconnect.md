@@ -18,3 +18,26 @@
  - سپس رو دکمه Connect بزنید تا وصل شود
 
 
+
+<img src="oneconnect.1.jpg" alt="oneconnect.1.jpg" width="400"/>
+
+
+<img src="oneconnect.2.jpg" alt="oneconnect.2.jpg" width="400"/>
+
+
+<img src="oneconnect.3.jpg" alt="oneconnect.3.jpg" width="400"/>
+
+
+<img src="oneconnect.4.jpg" alt="oneconnect.4.jpg" width="400"/>
+
+
+<img src="oneconnect.5.jpg" alt="oneconnect.5.jpg" width="400"/>
+
+
+<img src="oneconnect.6.jpg" alt="oneconnect.6.jpg" width="400"/>
+
+
+<img src="oneconnect.7.jpg" alt="oneconnect.7.jpg" width="400"/>
+
+
+<img src="oneconnect.8.jpg" alt="oneconnect.8.jpg" width="400"/>
