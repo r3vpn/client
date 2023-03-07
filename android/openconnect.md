@@ -19,3 +19,32 @@
  - بعد ازتون پسورد میخواد وارد کنید و تیک گزینه save password رو بزنید
  - اگر خطا نداشته باشد متصل می شود
 
+
+### تصاویر راهنما
+
+<img src="openconnect.1.jpg" alt="openconnect.1.jpg" width="400"/>
+
+
+<img src="openconnect.2.jpg" alt="openconnect.2.jpg" width="400"/>
+
+
+<img src="openconnect.3.jpg" alt="openconnect.3.jpg" width="400"/>
+
+
+<img src="openconnect.4.jpg" alt="openconnect.4.jpg" width="400"/>
+
+
+<img src="openconnect.5.jpg" alt="openconnect.5.jpg" width="400"/>
+
+
+<img src="openconnect.6.jpg" alt="openconnect.6.jpg" width="400"/>
+
+
+<img src="openconnect.7.jpg" alt="openconnect.7.jpg" width="400"/>
+
+
+<img src="openconnect.8.jpg" alt="openconnect.8.jpg" width="400"/>
+
+
+<img src="openconnect.9.jpg" alt="openconnect.9.jpg" width="400"/>
+
