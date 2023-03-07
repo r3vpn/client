@@ -15,3 +15,37 @@
  - اگر به سرور وصل شود ازتون یوزرنیم میخواد وارد کنید
  - سپس از تون پسورد میخواد وارد کنید تا وصل شود
 
+
+### تصاویر راهنما
+
+
+<img src="anyconnect.1.jpg" alt="anyconnect.1.jpg" width="400"/>
+
+
+
+<img src="anyconnect.2.jpg" alt="anyconnect.2.jpg" width="400"/>
+
+
+
+<img src="anyconnect.3.jpg" alt="anyconnect.3.jpg" width="400"/>
+
+
+
+<img src="anyconnect.4.jpg" alt="anyconnect.4.jpg" width="400"/>
+
+
+
+<img src="anyconnect.5.jpg" alt="anyconnect.5.jpg" width="400"/>
+
+
+
+<img src="anyconnect.6.jpg" alt="anyconnect.6.jpg" width="400"/>
+
+
+
+<img src="anyconnect.7.jpg" alt="anyconnect.7.jpg" width="400"/>
+
+
+
+<img src="anyconnect.8.jpg" alt="anyconnect.8.jpg" width="400"/>
+
