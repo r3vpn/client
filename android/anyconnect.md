@@ -4,6 +4,9 @@
 ### برنامه AnyConnect رو دانلود کنید
 
 - [دانلود نسخه قدیمی 4.8](https://github.com/r3vpn/client/releases/download/v1.0.0/Cisco-Secure-Client-AnyConnect-v4-8-03651.apk)
+- [دانلود نسخه جدید 5](https://github.com/r3vpn/client/releases/download/v1.0.0/Cisco-Secure-Client-AnyConnect-5-0-01253.apk)
+- [دانلود از گوگل پلی](https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android.avf&hl=en_US)
+
 
 ### مراحل زیر رو دنبال کنید
 
