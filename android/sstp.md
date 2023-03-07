@@ -1,6 +1,12 @@
 ## برای گوشی اندروید – دانلود و نصب کنید
 
-برنامه  Open SSTP رو دانلود کنید
+### برنامه  Open SSTP رو دانلود کنید
+
+- [دانلود مستقیم](https://github.com/kittoku/Open-SSTP-Client/releases/download/v1.6.3/osc-1.6.3.apk)
+- [دانلود از گوگل پل](https://play.google.com/store/apps/details?id=kittoku.osc&hl=en&gl=US)
+
+
+### مراحل زیر رو دنبال کنید
 
  - بعد از نصب برنامه رو باز کنید
  - سه مورد بالا که قرمز رنگ است رو به ترتیب وارد کنید
