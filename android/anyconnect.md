@@ -1,7 +1,11 @@
 ## برای گوشی اندروید – دانلود و نصب کنید
 
 
-برنامه AnyConnect رو دانلود کنید
+### برنامه AnyConnect رو دانلود کنید
+
+- [دانلود نسخه قدیمی 4.8](https://github.com/r3vpn/client/releases/download/v1.0.0/Cisco-Secure-Client-AnyConnect-v4-8-03651.apk)
+
+### مراحل زیر رو دنبال کنید
 
  - بعد از نصب برنامه رو باز کنید
  - از صفحه اصلی وارد قسمت Connections شوید
