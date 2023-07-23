@@ -3,7 +3,9 @@
 ### برنامه OpenConnect رو دانلود کنید
 
 - [لینک مستقیم نسخه اول](https://github.com/r3vpn/client/releases/download/v1.0.0/OpenConnect-1-05.apk)
-- [لینک مستقیم نسخه دوم](https://github.com/r3vpn/client/releases/download/v1.0.0/OpenConnect-1-15.apk)
+- [لینک مستقیم نسخه دوم برای اندروید ۴.۱ و بالاتر](https://github.com/r3vpn/client/releases/download/v1.0.0/OpenConnect-1-15.apk)
+- [لینک مستقیم نسخه سوم برای اندروید ۶ و بالاتر](https://github.com/r3vpn/client/releases/download/v1.0.0/OpenConnect-1.2.apk)
+
 - [دانلود از گوگل پلی](https://play.google.com/store/apps/details?id=com.github.digitalsoftwaresolutions.openconnect&hl=en_US)
 
 
